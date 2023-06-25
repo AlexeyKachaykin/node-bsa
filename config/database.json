@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "email": "aaaa@gmail.com",
+      "password": "323232",
+      "firstName": "sd",
+      "lastName": "sd",
+      "phoneNumber": "+380955588777",
+      "createdAt": "2023-06-25T18:45:41.189Z"
+    },
+    {
+      "email": "adsdsd@gmail.com",
+      "password": "1547",
+      "firstName": "sss",
+      "lastName": "ssss",
+      "phoneNumber": "+380925575191",
+      "id": "7248a055-79b6-4cdd-abbc-420d0eb308b1",
+      "createdAt": "2023-06-25T19:12:47.600Z",
+      "updatedAt": "2023-06-25T20:18:19.043Z"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "aqaa",
+      "power": 43,
+      "defense": 1,
+      "health": 100,
+      "id": "cb1ec500-cf9d-41d9-9b92-3ac76de9ac3a",
+      "createdAt": "2023-06-25T18:45:52.477Z",
+      "updatedAt": "2023-06-25T20:32:05.833Z"
+    },
+    {
+      "name": "aaa3",
+      "power": 33,
+      "defense": 2,
+      "health": 100,
+      "id": "dc67e936-2d26-4e80-a304-b419aa284437",
+      "createdAt": "2023-06-25T18:45:54.148Z"
+    },
+    {
+      "name": "aa34",
+      "power": 3,
+      "defense": 2,
+      "health": 100,
+      "id": "8ffa5d54-711b-4cf0-ad6c-b3a97e2d6926",
+      "createdAt": "2023-06-25T18:45:56.227Z",
+      "updatedAt": "2023-06-25T18:52:15.989Z"
+    },
+    {
+      "name": "qssw",
+      "power": 10,
+      "defense": 4,
+      "health": 100,
+      "id": "dddbb0b3-015d-4ab7-98a2-215bd270c128",
+      "createdAt": "2023-06-25T18:47:02.111Z"
+    }
+  ],
+  "fights": []
+}
